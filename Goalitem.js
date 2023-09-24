@@ -40,7 +40,7 @@ function GoalItems(props) {
 const styles = StyleSheet.create({
   goalItems: {
     borderRadius: 5,
-    backgroundColor: "#603fef",
+    backgroundColor: "#FF2171",
     padding: 10,
     marginTop: 20,
     flexDirection: "row",
